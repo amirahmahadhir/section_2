@@ -1,0 +1,24 @@
+
+    p{
+      color: red;
+    }
+    input{
+      border:2px dashed red;
+    }
+
+    textarea{
+      border: 2px dashed red;
+    }
+
+    h1{
+      color: blue;
+      font-family: Times New Roman;
+      }
+
+    h2{
+      border: 3px dashed blue;
+    }
+
+    label{
+      color: blue;
+    }
